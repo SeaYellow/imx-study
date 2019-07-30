@@ -1,1 +1,1 @@
-# imx-study
+# jmx-study
